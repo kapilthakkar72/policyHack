@@ -1,0 +1,10 @@
+Name,Company,Quantity (l/gm),Qty Unit,Price(Rs),Mfg, Best before,Exp  date,Nutrients value,Green code(y /n),Agmark,Barcode,Logo (bin),Category
+Fanta,Coca cola,1.25,l,55,07-09-2014,4,,energy - 120 cals;  sodium - 35 mg; total carbohydrates - 30 gm (1 can),y,y,Barcode.jpg,Fanta,1
+Coca-cola,Coca cola,1.5,l,60,07-06-2014,4,,energy - 90 cals;  sodium - 31 mg; total carbohydrates - 25 gm ; potassium - 6.3 mg (1 can),y,y,Barcode.jpg,coca,2
+Pepsi,Pepsico,0.6,l,30,11-09-2014,4,,energy - 94 cals;  sodium - 19 mg; potassium - 6.3 mg; total carbohydrates - 25.6 gm ; potassium - 6.3 mg (1 can),y,n,Barcode.jpg,pepsilogo,3
+Milk,Mother Dairy,1,l,30,21-10-2014,12,,energy -47 cal; protein- 3 gm; carbohydrates-  5 gm; fat - 2 gm; calcium - 1% (per 100 ml),y,n,Barcode.jpg,mother_diary,4
+7up,pepsico,1,l,50,21-10-2014,4,,energy - 94 cals;  sodium - 19 mg; potassium - 6.3 mg; total carbohydrates - 25.6 gm ; potassium - 6.3 mg (1 can),y,n,Barcode.jpg,7up,5
+Parle-G,Parle agro,60,g,10,15-09-2014,6,,energy - 25.9 cals; total carbohydrate - 9.8 gm;  protein - 0.2 gm (1 biscuit),y,n,Barcode.jpg,Parle,6
+Complan,H.J.Heinz,600,g,365,17-09-2014,8,,energy - 80 cals; sugars - 12 gm; protein- 3gm; fat - 2gm; Vitamin A - 4%; Vitamin  C - 10%; calcium - 16%; iron - 15% (3 tbsp),y,y,Barcode.jpg,Complan,7
+Bournvita,Cadburys,230,g,160,17-09-2014,8,,energy - 64 cals; sugars - 14 gm; protein- 2gm; fat < 1gm; Vitamin A - 20%; Vitamin  C - 40%; calcium - 4%; iron - 12% (3 tbsp),y,n,Barcode.jpg,bvita,8
+Bingo - Mad Angles,ITC Ltd.,90,g,20,11-09-2014,6,,energy - 542 kcal; protein - 7.3 kcal; carbohydrate - 58.8; sugar - 5.3 kcal; total fat - 30.8 kcal (per 100 gm),y,y,Barcode.jpg,bingo,9
